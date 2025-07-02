@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou Edvan Figuerêdo Araujo!
 
-<!--
-**Edvanfigueredo/EdvanFigueredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 *Desenvolvedor em formação* apaixonado por tecnologia, inovação e aprendizado contínuo.
 
-Here are some ideas to get you started:
+🎓 Atualmente cursando *Análise e Desenvolvimento de Sistemas*, com foco em:
+- 💻 *Java*
+- 🤖 *Inteligência Artificial*
+- 📊 *Power BI*
+- ⚙ Desenvolvimento de soluções práticas e funcionais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 💡 *Sobre mim*
+
+- 🔭 *Projetos atuais:* TCC sobre IMC, integrando Java, IA e dashboards interativos no Power BI.
+- 🌱 Sempre aprendendo novas tecnologias para transformar ideias em código real.
+- 🤝 Gosto de compartilhar conhecimento e contribuir em projetos open source.
+
+## 📌 *Tecnologias*
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📈 *GitHub Stats*
+
+![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUserName&show_icons=true&theme=radical)
+
+## 📫 *Vamos conectar!*
+
+[![LinkedIn](www.linkedin.com/in/edvan-figuerêdo-araujo-7b8332272)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edvanfaraujo@outlook.com)
+
