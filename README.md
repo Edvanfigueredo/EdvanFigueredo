@@ -14,7 +14,7 @@
 
 ## 💡 *Sobre mim*
 
-- 🔭 *Projetos atuais:* TCC sobre IMC, integrando Java, IA e dashboards interativos no Power BI.
+- 🔭 *Projetos atuais:* Jogo de Boxe no JAVA; Versão do Pac-Man Roblox com html, CSS e JavaScript; TCC sobre IMC, integrando Java, IA e dashboards interativos no Power BI.
 - 🌱 Sempre aprendendo novas tecnologias para transformar ideias em código real.
 - 🤝 Gosto de compartilhar conhecimento e contribuir em projetos open source.
 
