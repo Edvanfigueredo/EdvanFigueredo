@@ -7,6 +7,7 @@
 - 💻 *Java Script*
 - 💻 *HTML e CSS*
 - 🤖 *Inteligência Artificial*
+- 📊 * SQL*
 - 📊 *Power BI*
 - ⚙ Desenvolvimento de soluções práticas e funcionais
 
