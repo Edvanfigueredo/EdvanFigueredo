@@ -32,7 +32,7 @@ https://github.com/Edvanfigueredo
 ## 📫 *Vamos conectar!*
 
 [![LinkedIn](www.linkedin.com/in/edvan-figuerêdo-araujo-7b8332272)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edvanfaraujo@outlook.com)
-![Banner] (![edvan](https://github.com/user-attachments/assets/48922c8d-2858-41f7-8957-a74f34cfedcb)
+[![Email](https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:edvanfaraujo@outlook.com)
+(![edvan](https://github.com/user-attachments/assets/48922c8d-2858-41f7-8957-a74f34cfedcb)
 
 
