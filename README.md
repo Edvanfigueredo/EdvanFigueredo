@@ -4,7 +4,9 @@
 
 🎓 Atualmente cursando *Análise e Desenvolvimento de Sistemas*, com foco em:
 - 💻 *Java*
+- 💻 *C*
 - 💻 *Java Script*
+- 💻 *Python*
 - 💻 *HTML e CSS*
 - 🤖 *Inteligência Artificial*
 - 📊 *SQL*
