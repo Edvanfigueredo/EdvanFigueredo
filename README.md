@@ -2,7 +2,7 @@
 
 🚀 *Engenheiro de Software em formação* apaixonado por tecnologia, inovação e aprendizado contínuo.
 
-🎓 Atualmente cursando *Análise e Desenvolvimento de Sistemas*, com foco em:
+🎓 Atualmente cursando *Engenharia de Software* e concluindo * Análise e Desenvolvimento de Sistema* com foco em:
 - 💻 *Java*
 - 💻 *C*
 - 💻 *Java Script*
