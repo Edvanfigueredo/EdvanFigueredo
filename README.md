@@ -1,12 +1,13 @@
 # 👋 Olá, eu sou Edvan Figuerêdo Araujo!
 
-🚀 *Desenvolvedor em formação* apaixonado por tecnologia, inovação e aprendizado contínuo.
+🚀 *Engenheiro de Software em formação* apaixonado por tecnologia, inovação e aprendizado contínuo.
 
 🎓 Atualmente cursando *Análise e Desenvolvimento de Sistemas*, com foco em:
 - 💻 *Java*
 - 💻 *C*
 - 💻 *Java Script*
 - 💻 *Python*
+- 💻 *PHP*
 - 💻 *HTML e CSS*
 - 🤖 *Inteligência Artificial*
 - 📊 *SQL*
@@ -16,7 +17,7 @@
 
 ## 💡 *Sobre mim*
 
-- 🔭 *Projetos atuais:* Jogo de Boxe no JAVA; Versão do Pac-Man Roblox com html, CSS e JavaScript; TCC sobre IMC, integrando Java, IA e dashboards interativos no Power BI; Análise de ações através do Python ( com integração de Yahoo finace, biblioteca panda e yfinance ).
+- 🔭 *Projetos atuais:* Site empresarial da Academia Guibbor BJJ desenvolvimento Full Stack, Jogo de Boxe no JAVA; Versão do Pac-Man Roblox com html, CSS e JavaScript; TCC sobre IMC, integrando Java, IA e dashboards interativos no Power BI; Análise de ações através do Python ( com integração de Yahoo finace, biblioteca panda e yfinance ).
 - 🌱 Sempre aprendendo novas tecnologias para transformar ideias em código real.
 - 🤝 Gosto de compartilhar conhecimento e contribuir em projetos open source.
 
