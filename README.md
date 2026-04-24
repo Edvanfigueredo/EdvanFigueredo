@@ -2,7 +2,9 @@
 
 🚀 *Engenheiro de Software em formação* apaixonado por tecnologia, inovação e aprendizado contínuo.
 
-🎓 Atualmente cursando *Engenharia de Software* e concluindo * Análise e Desenvolvimento de Sistema* com foco em:
+🤵🏽‍♂️ Atualmente Staff de IA e Data-Consulting FSO na EY.
+
+🎓 Cursando *Engenharia de Software* e concluindo *Análise e Desenvolvimento de Sistema* com foco em:
 - 💻 *Java*
 - 💻 *C*
 - 💻 *Java Script*
@@ -27,6 +29,9 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
 ## 📈 *Edvanfigueredo*
 
